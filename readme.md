@@ -30,3 +30,9 @@ DOGEUSDT-4h-2023-10 (October)
 ### Results - Image
 ![ixjb94](https://raw.githubusercontent.com/ixjb94/indicators-benchmark/master/images/ixjb94.png "ixjb94")    
 ![pandas-ta](https://raw.githubusercontent.com/ixjb94/indicators-benchmark/master/images/pandas-ta.png "pandas-ta")    
+
+### System Info
+OS : Windows 10    
+CPU: Intel Core i7 8700k - 3.70GHz    
+RAM: 32gb - DDR4    
+SSD: ADATA SU9000    
