@@ -12,9 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "@ixjb94/indicators": "^1.1.24"
-  },
-  "devDependencies": {
-    "benchmark": "^2.1.4",
-    "jest-bench": "^29.4.1"
   }
 }
