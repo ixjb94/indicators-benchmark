@@ -1,0 +1,20 @@
+{
+  "name": "ixjb94",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ixjb94/indicators": "^1.1.24"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "jest-bench": "^29.4.1"
+  }
+}
