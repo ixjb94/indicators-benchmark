@@ -13,7 +13,8 @@ DOGEUSDT-4h-2023-10 (October)
 - json file size: 69kb    
 - number of candles: 186    
 - (Times faster) is compared to @ixjb94/indicators    
-    Example: @ixjb94/indicator is 25.18x times faster than Pandas-ta and 2.71x times faster than Tulip Node
+    Example:    
+    ATR => @ixjb94/indicator is 25.18x times faster than Pandas-ta and 2.71x times faster than Tulip Node
 
 | Identifier    | @ixjb94/indicators        | pandas-ta (Times faster)  | Tulip node (Times faster) |
 | ------------- | --------------------------| --------------------------|---------------------------|
