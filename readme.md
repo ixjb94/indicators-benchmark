@@ -30,9 +30,6 @@ DOGEUSDT-4h-2023-10 (October)
 | SMA           | 59733.61                  | 4671.15 (12.79 x)         | 22757.79 (2.62 x)         |
 | STOCH         | 9732.93                   | 684.72  (14.21 x)         | 9185.60 (1.05 x)          |
 
-Q: Why HMA is slower than tulip-node?    
-A: Because my HMA is calling another function, which I'll fix it soon. 
-
 ### Results - Image
 ![ixjb94](https://raw.githubusercontent.com/ixjb94/indicators-benchmark/master/images/ixjb94.png "ixjb94")    
 ![pandas-ta](https://raw.githubusercontent.com/ixjb94/indicators-benchmark/master/images/pandas-ta.png "pandas-ta")    
