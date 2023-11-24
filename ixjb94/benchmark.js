@@ -31,19 +31,3 @@ export class Benchmark {
         return this
     }
 }
-
-// export function benchmark(func, name, runs) {
-//     let totalTime = 0
-
-//     for (let i = 0; i < runs; i++) {
-//         const startTime = performance.now()
-
-//         func()
-
-//         const endTime = performance.now()
-//         totalTime += endTime - startTime
-//     }
-
-//     const opsPerSec = (runs / (totalTime / 1000)).toFixed(2)
-//     console.log(`${name} - ${opsPerSec} ops/sec - (${runs} runs sampled)`)
-// }
